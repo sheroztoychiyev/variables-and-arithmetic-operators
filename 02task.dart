@@ -6,4 +6,9 @@
 
 //  Find the sum of a and b than assign to 'answer'
 
-void main() {}
+void main() {
+int a = 3;
+int b = 4;
+int answer = a + b;
+print(answer);
+}
