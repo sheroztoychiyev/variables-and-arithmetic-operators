@@ -6,4 +6,9 @@
 
 //  Find the multiplication of a and b then assign to 'answer'
 
-void main() {}
+void main() {
+int a = 5;
+int b = 4;
+int answer = a * b;
+print(answer);
+}
